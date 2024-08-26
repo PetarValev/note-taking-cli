@@ -1,6 +1,5 @@
 # Note-Taking CLI App
 
----
 
 📝 Overview
 A simple command-line tool for managing notes. Create, list, and delete notes easily, with data stored in a JSON file.
