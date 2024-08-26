@@ -20,7 +20,12 @@ python note_app.py → delete
 
 🛠️ Setup
 Clone the repo:
-git clone https://github.com/PetarValev/note-taking-cli.git
 
+```
+git clone https://github.com/PetarValev/note-taking-cli.git
+```
 Run the app:
+
+```
 python note_app.py
+```
