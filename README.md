@@ -1,4 +1,5 @@
-Note-Taking CLI App
+#Note-Taking CLI App
+
 📝 Overview
 A simple command-line tool for managing notes. Create, list, and delete notes easily, with data stored in a JSON file.
 
@@ -14,7 +15,7 @@ python note_app.py → delete
 
 🛠️ Setup
 Clone the repo:
-git clone 
+git clone https://github.com/PetarValev/note-taking-cli.git
 
 Run the app:
 python note_app.py
